@@ -1,0 +1,17 @@
+h1{
+    color: goldenrod;
+}
+h1:hover {
+    color: indianred;
+    background-color: lawngreen;
+    font-size: 60px;
+}
+input:focus{
+    font-size: 20px;
+    font-weight: 700;
+    color: green;
+}
+li:nth-child(2n+1){
+    background-color: indianred;
+    display: flex;
+}
